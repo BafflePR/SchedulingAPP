@@ -25,4 +25,3 @@ response1 = requests.get(url=url)
 server_status = response.json()
 
 print(server_status)
-print(server_status)
